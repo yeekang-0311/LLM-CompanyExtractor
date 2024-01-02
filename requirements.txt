@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+langchain>=0.0.353
+python-dotenv>=1.0.0
+openai

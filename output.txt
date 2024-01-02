@@ -1,0 +1,1 @@
+{'related_companies': [{'company_name': 'X', 'company_domain': 'x.com'}, {'company_name': 'Bloomberg', 'company_domain': 'bloomberg.com'}], 'topic': 'X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan'}
